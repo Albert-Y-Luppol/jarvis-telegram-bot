@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Albert-Y-Luppol/jarvis-telegram-bot/issues"
   },
-  "homepage": "https://github.com/Albert-Y-Luppol/jarvis-telegram-bot#readme"
+  "homepage": "https://github.com/Albert-Y-Luppol/jarvis-telegram-bot#readme",
+  "devDependencies": {
+    "telegraf": "^3.38.0"
+  }
 }
