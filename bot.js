@@ -2,6 +2,7 @@ const http = require("http");
 
 http
   .createServer((req, res) => {
-    res.end(req);
+    res.writeHead(200);
+    res.end("It works fine!");
   })
   .listen(3000);
