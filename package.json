@@ -1,0 +1,20 @@
+{
+  "name": "jarvis",
+  "version": "1.0.0",
+  "description": "telegram bot - helper",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Albert-Y-Luppol/jarvis-telegram-bot.git"
+  },
+  "author": "Albert Luppol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Albert-Y-Luppol/jarvis-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/Albert-Y-Luppol/jarvis-telegram-bot#readme"
+}
