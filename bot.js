@@ -5,4 +5,4 @@ http
     res.writeHead(200);
     res.end("It works fine!");
   })
-  .listen(3000);
+  .listen(process.env.PORT || 8080);
